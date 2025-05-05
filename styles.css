@@ -1,0 +1,84 @@
+body {
+  background: #1e1e1e;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3.58vh;
+}
+
+nav img {
+  max-height: 6.535vh;
+  stroke-width: 0.5px;
+  stroke: #fff;
+}
+
+h1,
+h2 {
+  font-family: "Jacques Francois Shadow";
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+h2 {
+  color: #ddd;
+  font-size: 2.5067vh;
+  margin: 0 0 0 0;
+}
+
+h1 {
+  font-size: 5.73vh;
+  margin-top: 150px;
+  max-width: 40.6vw;
+}
+
+h3 {
+  color: #fff;
+  font-family: Kameron;
+  font-size: 2.15vh;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.header {
+  color: #c9c900;
+  display: flex;
+  flex-direction: row;
+  gap: 10vw;
+  margin: auto auto auto 266px;
+}
+
+header img {
+  max-width: 26.74vw;
+  max-height: 48.34vh;
+  margin-top: 4.3vh;
+}
+
+section {
+  display: flex;
+  margin: auto 200px 150px 200px;
+}
+
+.arg {
+  max-height: 183px;
+  max-width: 312px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.arg img {
+  max-height: 8.863vh;
+}
+
+.arg1 img {
+  max-height: 10.3vh;
+}
+
+.page1 {
+  max-height: 100vh;
+}
